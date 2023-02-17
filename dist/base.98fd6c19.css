@@ -100,7 +100,7 @@ main {
 	padding: 0 3.5rem;
 }
 
-.frame__title::before,
+/* .frame__title::before,
 .frame__title::after {
 	content: '';
 	position: absolute;
@@ -114,7 +114,7 @@ main {
 .frame__title::before {
 	transform: rotate(-18deg);
 	transform-origin: top right;
-}
+} */
 
 .frame__links {
 	display: inline;
@@ -303,3 +303,5 @@ html.has-scroll-dragging {
 	right: auto;
 	bottom: 0;
 }
+
+/*# sourceMappingURL=/base.98fd6c19.css.map */

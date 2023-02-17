@@ -28,7 +28,7 @@ body {
 
 .gallery {
 	display: grid;
-    grid-template-columns: repeat(3,minmax(min-content,320px));
+    grid-template-columns: repeat(3,minmax(min-content,800px));
     grid-column-gap: 2rem;
     grid-row-gap: 5vh;
     padding: 4rem 0 20rem;
